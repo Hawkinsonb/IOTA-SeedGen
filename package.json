@@ -1,0 +1,24 @@
+{
+  "name": "IOTA-SeedGen",
+  "version": "1.0.0",
+  "description": "A random seed generator to generate new IOTA wallet addresses on a whim",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/hawkinsonb/IOTA-SeedGen",
+  "keywords": [
+    "IOTA",
+    "Seed",
+    "generator",
+    "wallet"
+  ],
+  "author": "Brandon Hawkinson",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "~1.7.8"
+  },
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
