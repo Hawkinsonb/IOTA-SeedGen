@@ -1,7 +1,7 @@
 # IOTA-SeedGen
 
 ## NOTICE
-Has security dependencies, I won't be updating them. Fork and update if you want to use this. 
+Has security vulnerabilities in a few libraries, I won't be updating them. Fork and update if you want to use this. 
 
 ### Releases
 All releases are under "Release-builds":
